@@ -13,9 +13,7 @@ This project contains API tests for managing Finetune jobs, including creating, 
 
 2. Pre requisites
   Python 3.10.1 installed on your system.
-  
   PyCharm IDE installed.
-  
   requests library for handling API requests. You can install it using pip:
   pip install requests
 
@@ -23,7 +21,6 @@ This project contains API tests for managing Finetune jobs, including creating, 
   Clone the repository:
   git clone https://github.com/strwlkr/Finetune_API
   cd api-tests
-
   a.Open the project in PyCharm:
   Open PyCharm.
   Click on File > Open and select the project directory.
