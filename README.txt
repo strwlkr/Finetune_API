@@ -20,7 +20,7 @@ pip install requests
 
 3. Setting Up the Project
 Clone the repository:
-git clone https://github.com/your-repo/api-tests.git
+git clone https://github.com/strwlkr/Finetune_API
 cd api-tests
 
 a.Open the project in PyCharm:
